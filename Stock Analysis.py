@@ -2753,7 +2753,7 @@ def main():
             print("4. Technicals")
             print("5. Stock Options")
             print("6. Stock Analysis")
-            print("7. Additional Information") # daily top gainers/losers completed
+            print("7. Additional Information")
             print("8. Custom Data")
             print("9. Exit")
             c=(int)(input("Please enter your choice: "))
